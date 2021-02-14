@@ -1,0 +1,10 @@
+carbuilder is abstract class/interface
+
+
+
+sedan_builder call car/ the product
+
+builders create and construct the product,
+i.e. the car object according to the specification required
+
+
