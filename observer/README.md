@@ -1,0 +1,1 @@
+#### Observer pattern to subscribe to live NHL game commentary.
