@@ -1,0 +1,1 @@
+#### Adapter pattern for changing payment vendor.
