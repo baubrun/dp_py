@@ -1,1 +1,1 @@
-Examples design patterns in Python.
+Examples of design patterns in Python.
